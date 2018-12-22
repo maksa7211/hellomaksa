@@ -8,5 +8,6 @@ public class DestroyByBoundary : MonoBehaviour {
     {
         //test
         Destroy(other.gameObject);
+//123456789
     }
 }
